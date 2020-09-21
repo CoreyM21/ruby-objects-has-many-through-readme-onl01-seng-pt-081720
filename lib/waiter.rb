@@ -22,4 +22,6 @@ attr_accessor :name, :yrs_experience
     meal.waiter == self #checking for waiter now
   end
 end
+
+
 end
